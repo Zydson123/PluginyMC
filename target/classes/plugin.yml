@@ -1,0 +1,30 @@
+name: PsiPlugin
+version: '1.0-SNAPSHOT'
+main: me.kihfas.psiplugin.PsiPlugin
+api-version: 1.19
+authors: [ kihfas ]
+description: nie
+commands:
+  god:
+    description: pies hau
+    usage: <command>
+    aliases:
+      - pies
+  feed:
+    description: free food
+    usage: <command>
+    aliases:
+      - kot
+  printMessageFromConfig:
+    description: config string
+    usage: <command>
+    aliases:
+      - papuga
+  setFood:
+    description: set food in config
+    usage: <command> name
+  psiGive:
+    description: give yourself a stack of smth
+    usage: <command> who what
+    aliases:
+      - stack

@@ -1,0 +1,7 @@
+Food: 'Potato'
+Number: 100
+Boolean: true
+FoodList:
+  - 'Pizza'
+  - 'Orange'
+  - 'Steak'
