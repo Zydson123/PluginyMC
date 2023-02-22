@@ -2,6 +2,7 @@ me\kihfas\psiplugin\XPBottleBreakListener.class
 me\kihfas\psiplugin\GiveAStack.class
 me\kihfas\psiplugin\ShearSheepListener.class
 me\kihfas\psiplugin\PsiPlugin.class
+ConfigShit\CustomConfig.class
 me\kihfas\psiplugin\FeedCommand.class
 events\PlayerMove.class
 me\kihfas\psiplugin\GodCommand.class

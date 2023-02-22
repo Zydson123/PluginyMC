@@ -28,3 +28,13 @@ commands:
     usage: <command> who what
     aliases:
       - stack
+  customConfig:
+    description: custom config
+    usage: <command> message
+    aliases:
+      - szczur
+  getCustomConfig:
+    description: custom config get ur message
+    usage: <command>
+    aliases:
+      - abc
